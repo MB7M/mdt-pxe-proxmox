@@ -47,16 +47,17 @@ Cette version de l’ADK et de son module complémentaire Windows PE prend en ch
 1. [Télécharger l’ADK 10.1.26100.2454](https://go.microsoft.com/fwlink/?linkid=2289980)
 2. Exécuter `adksetup.exe`.
 3. Sélectionner **« Installer sur cet ordinateur »**.
-4. Chemin par défaut : `C:\Program Files (x86)\Windows Kits\10`  
-![Sélection fonctionnalités ADK](./captures/adk_install.png)
+4. Chemin par défaut : `C:\Program Files (x86)\Windows Kits\10`
+       
+![Sélection fonctionnalités ADK](/captures/adk_install.png)
 
 5. Accepter les conditions de licence.
-6. Sélectionner uniquement les fonctionnalités suivantes suffisantes pour faire du MDT :
+6. Sélectionner uniquement les fonctionnalités suivantes suffisantes pour faire du MDT puis installer :
 
-![Sélection fonctionnalités ADK](./captures/adk_install_selection.png)
+![Sélection fonctionnalités ADK](/captures/adk_install_selection.png)
 
 
-![Fin installation ADK](./captures/adk_install_finish.png)
+![Fin installation ADK](/captures/adk_install_finish.png)
 
 ---
 
@@ -72,7 +73,7 @@ Cette version de l’ADK et de son module complémentaire Windows PE prend en ch
 5. Accepter les conditions de licence.
 6. Aucun choix supplémentaire à faire.
 
-![Fin installation WinPE](./captures/winpe_install_finish.png)
+![Fin installation WinPE](/captures/winpe_install_finish.png)
 
 ---
 
@@ -81,4 +82,4 @@ Cette version de l’ADK et de son module complémentaire Windows PE prend en ch
 Vérifier la présence des dossiers suivants après installation :
 
 
-![Fin installation WinPE](./captures/winpe_install_finish_dossiers.png)
+![Fin installation WinPE](/captures/winpe_install_finish_dossiers.png)
