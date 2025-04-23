@@ -44,16 +44,14 @@ Cette version de l’ADK et de son module complémentaire Windows PE prend en ch
 
 #### Étapes :
 
-1. Télécharger l’ADK 10.1.26100.2454 ici :
-[https://learn.microsoft.com/fr-fr/windows-hardware/get-started/adk-install](https://learn.microsoft.com/fr-fr/windows-hardware/get-started/adk-install)
-
-3. Exécuter `adksetup.exe`.
-4. Sélectionner **« Installer sur cet ordinateur »**.
-5. Chemin par défaut : `C:\Program Files (x86)\Windows Kits\10`  
+1. [Télécharger l’ADK 10.1.26100.2454](https://go.microsoft.com/fwlink/?linkid=2289980)
+2. Exécuter `adksetup.exe`.
+3. Sélectionner **« Installer sur cet ordinateur »**.
+4. Chemin par défaut : `C:\Program Files (x86)\Windows Kits\10`  
 ![Sélection fonctionnalités ADK](./captures/adk_install.png)
 
-6. Accepter les conditions de licence.
-7. Sélectionner uniquement les fonctionnalités suivantes suffisantes pour faire du MDT :
+5. Accepter les conditions de licence.
+6. Sélectionner uniquement les fonctionnalités suivantes suffisantes pour faire du MDT :
 
 ![Sélection fonctionnalités ADK](./captures/adk_install_selection.png)
 
@@ -66,14 +64,13 @@ Cette version de l’ADK et de son module complémentaire Windows PE prend en ch
 
 #### Étapes :
 
-1. Télécharger le **WinPE Add-on** pour ADK 10.1.26100.2454 ici :
-[https://learn.microsoft.com/fr-fr/windows-hardware/get-started/adk-install#download-the-adk-for-windows-11](https://learn.microsoft.com/fr-fr/windows-hardware/get-started/adk-install#download-the-adk-for-windows-11)
+1. [Télécharger le **WinPE Add-on** pour ADK 10.1.26100.2454](https://go.microsoft.com/fwlink/?linkid=2289981)
 
-3. Exécuter `adkwinpesetup.exe`.
-4. Choisir **« Installer sur cet ordinateur »**.
-5. Chemin par défaut (identique à l’ADK).
-6. Accepter les conditions de licence.
-7. Aucun choix supplémentaire à faire.
+2. Exécuter `adkwinpesetup.exe`.
+3. Choisir **« Installer sur cet ordinateur »**.
+4. Chemin par défaut (identique à l’ADK).
+5. Accepter les conditions de licence.
+6. Aucun choix supplémentaire à faire.
 
 ![Fin installation WinPE](./captures/winpe_install_finish.png)
 
