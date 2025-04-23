@@ -77,7 +77,7 @@ Cette version de l’ADK et de son module complémentaire Windows PE prend en ch
 
 ---
 
-## Vérification de l’installation
+## C. Vérification de l’installation
 
 Vérifier la présence des dossiers suivants après installation :
 
