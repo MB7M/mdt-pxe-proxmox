@@ -27,7 +27,7 @@ Le Deployment Share servira à centraliser les images, pilotes, séquences de t�
 #### Téléchargement :
 
 - **MDT (Microsoft Deployment Toolkit) - Dernière version 64 bits :**  
-  [Télécharger MDT ](https://www.microsoft.com/en-us/download/details.aspx?id=54259)
+  [Télécharger MDT ](https://download.microsoft.com/download/3/3/9/339be62d-b4b8-4956-b58d-73c4685fc492/MicrosoftDeploymentToolkit_x64.msi)
 
 #### Étapes :
 
@@ -72,16 +72,13 @@ On retrouve le contenu du Deployment Share dans la console MDT, mais aussi à pa
 
 ### C. Créer un utilisateur local dédié à MDT 
 
-#### Objectif :
-Créer un **compte de service local** utilisé par les machines lors du déploiement pour accéder au **Deployment Share**, avec des droits limités (**lecture et exécution uniquement**).
-
 Lorsque les machines clientes démarrent en **boot PXE** pour installer le système d’exploitation via MDT, elles doivent se connecter au Deployment Share pour accéder aux ressources suivantes :
 - Images de déploiement,
 - Pilotes,
 - Séquences de tâches,
 - Applications, etc.
 
- Cette connexion nécessite un compte utilisateur disposant des droits suffisants sur le partage. Pour sécuriser l’environnement, il est recommandé de créer un **compte local dédié**, sans privilèges administrateur, et de lui attribuer uniquement les droits nécessaires.
+Cette connexion nécessite un compte utilisateur disposant des droits suffisants sur le partage. Pour sécuriser l’environnement, il est recommandé de créer un **compte local dédié**, sans privilèges administrateur, et de lui attribuer uniquement les droits nécessaires (**lecture et exécution uniquement**).
 
 #### Script PowerShell pour la création  :
 
