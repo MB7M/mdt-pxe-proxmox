@@ -102,7 +102,7 @@ Une fois la séquence de tâches créée, il est possible de l’éditer pour v�
 
 1. Clic droit sur la séquence de tâches → **Properties**.  
 
-![Task Sequence Update activé](/captures/mdt_modifier_sequence_tâchepng)
+![Task Sequence Update activé](/captures/mdt_modifier_sequence_tâche.png)
 
 2. Aller dans l’onglet **Task Sequence**.
 
@@ -122,6 +122,6 @@ Pour maintenir les machines à jour automatiquement à la fin du déploiement, i
 - **Décocher** la case **Disable this step** (activer l’étape).
 - Vérifier que la case **Continue on error** est cochée (permet au déploiement de continuer même si cette étape échoue).
 
-![Task Sequence Update activé](/captures/mdt_task_sequence_windows_update.png)  
+![Task Sequence Update activé](/captures/mdt_task_windows_update.png)  
 
 3. Selectionner **OK**, la séquence de tâche est prête !
