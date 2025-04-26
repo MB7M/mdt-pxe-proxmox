@@ -20,7 +20,6 @@ Lors de l'accès aux propriétés du Deployment Share, un clic sur l’onglet **
 
 2. Dans les propriétés du Deployment Share, décocher le **support x86**.
 
-📸 **Capture recommandée :**  
 ![Désactivation du support x86](/captures/mdt_disable_x86_support.png)
 
 Après ces modifications, l'accès à l'onglet **Windows PE** fonctionne normalement.
