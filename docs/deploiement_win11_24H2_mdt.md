@@ -50,10 +50,6 @@ Ce déploiement utilise un environnement PXE avec un serveur DHCP distinct.
 
 ![Sélection Task Sequence](/captures/mdt_select_task_sequence.png)
 
----
-
-## D. Configuration de la machine cible
-
 3. Renseigner un **nom de machine** 
 4. Indiquer des paramètres d’intégration au domaine Active Directory  si vous voulez la joindre à l'AD (ici on reste en workgroup).
 5. Next
@@ -61,7 +57,7 @@ Ce déploiement utilise un environnement PXE avec un serveur DHCP distinct.
 
 ---
 
-## E. Passer les étapes non pertinentes
+## D. Passer les étapes non pertinentes
 
 - **Backup / Restore** : Inutile pour une machine neuve → cliquer sur **Next**.
 
@@ -81,7 +77,7 @@ Ce déploiement utilise un environnement PXE avec un serveur DHCP distinct.
 
 ---
 
-## F. Lancer la séquence de tâches
+## E. Lancer la séquence de tâches
 
 1. Cliquer sur **Begin** pour lancer le déploiement automatique.  
 
@@ -93,7 +89,7 @@ Ce déploiement utilise un environnement PXE avec un serveur DHCP distinct.
 
 ---
 
-## G. Fin du déploiement
+## F. Fin du déploiement
 
 - Une fois Windows installé, le PC redémarre automatiquement.
 - Vérifier que :
@@ -106,8 +102,8 @@ Ce déploiement utilise un environnement PXE avec un serveur DHCP distinct.
   - Déploiement réussi
   - Éventuelles erreurs ou avertissements.
 
-Cliquer sur **Finish** pour terminer la session Lite Touch.
-
 ![Déploiement terminé](/captures/mdt_finish2.png)
+
+Cliquer sur **Finish** pour terminer la session Lite Touch.  
 
 ---
