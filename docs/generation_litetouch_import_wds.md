@@ -48,12 +48,9 @@ Générer l’image de démarrage **Lite Touch** avec MDT, contenant toutes les 
 3. Naviguer jusqu’au fichier `.wim` généré :  
    `W:\DeploymentShare\Boot\LiteTouchPE_x64.wim`
        
-![Ajout image WDS](/captures/mdt_wds_lifetouch.png)  
+![Ajout image WDS](/captures/mdt_wds_lifetouch_import.png)  
 
 4. Donner un nom parlant à l’image (ex. : `MDT Lite Touch Windows 11`), puis cliquer sur **Suivant**.
-
-![Ajout image WDS](/captures/mdt_wds_litetouch_import.png)
-
 5. Patienter pendant l’import → cliquer sur **Terminer**.
 
 ![Image LiteTouch importée](/captures/wds_litetouch_done.png)
