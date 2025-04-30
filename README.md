@@ -32,13 +32,13 @@ avec ajout de Microsoft Deployment Toolkit (MDT) à un serveur WDS existant pour
 
 Accessible dans [`/docs`](./docs) :
 
-- `01_installation_adk.md` – Installation de Windows ADK 10.1.26100.2454
-- `02_installation_mdt.md` – Installation et configuration initiale de MDT
-- `03_mdt_config_win11_24H2.md` – Ajustements pour la compatibilité avec Windows 11 24H2
-- `04_mdt_import_os_taskseq.md` – Import de l’image Windows 11 et création de séquence
-- `05_mdt_config_bootstrap_customsettings.md` – Configuration de `bootstrap.ini` et `CustomSettings.ini`
-- `06_generation_litetouch_import_wds.md` – Génération de l’image LiteTouch et import dans WDS
-- `07_deploiement_win11_24H2_mdt.md` – Déploiement automatisé d’un poste Windows 11
+- [`01_installation_adk.md`](./docs/01_installation_adk.md) – Installation de Windows ADK 10.1.26100.2454
+- [`02_installation_mdt.md`](./docs/02_installation_mdt.md) – Installation et configuration initiale de MDT
+- [`03_mdt_config_win11_24H2.md`](./docs/03_mdt_config_win11_24H2.md) – Ajustements pour la compatibilité avec Windows 11 24H2
+- [`04_mdt_import_os_taskseq.md`](./docs/04_mdt_import_os_taskseq.md) – Import de l’image Windows 11 et création de séquence
+- [`05_mdt_config_bootstrap_customsettings.md`](./docs/05_mdt_config_bootstrap_customsettings.md) – Configuration de `bootstrap.ini` et `CustomSettings.ini`
+- [`06_generation_litetouch_import_wds.md`](./docs/06_generation_litetouch_import_wds.md) – Génération de l’image LiteTouch et import dans WDS
+- [`07_deploiement_win11_24H2_mdt.md`](./docs/07_deploiement_win11_24H2_mdt.md) – Déploiement automatisé d’un poste Windows 11
 
 ## Automatisation
 
