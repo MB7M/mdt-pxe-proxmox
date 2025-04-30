@@ -7,7 +7,7 @@ Importer l’image de **Windows 11 version 24H2** dans le **Deployment Share MDT
 > Prérequis :  
 > - ISO de Windows 11 24H2 montée sur le serveur MDT  
 > - Deployment Share déjà créé et configuré (`D:\MDTDeploymentShare` ou autre chemin selon votre environnement)  
-> - ADK et WinPE Add-on installés [`installation_adk.md`](installation_adk.md)
+> - ADK et WinPE Add-on installés [`installation_adk.md`](01_installation_adk.md)
 
 ---
 
