@@ -1,0 +1,37 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Dossiers cachés d’éditeur
+.vscode/
+.idea/
+
+# Fichiers générés
+*.log
+
+# Dossiers système
+__MACOSX/
+
+# Déploiement ou preview local 
+node_modules/
+dist/
+.cache/
+
+# Sauvegardes
+*~
+
+# Captures brutes si jamais
+*.png
+
+# Markdown preview caches
+*.markdown.*
+
+# Exclure les fichiers de configuration perso
+.env
