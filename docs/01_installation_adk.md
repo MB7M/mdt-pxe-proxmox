@@ -5,7 +5,7 @@
 Installer le **Windows Assessment and Deployment Kit (ADK)** ainsi que le module complémentaire **Windows PE Add-on**, nécessaires à la création des images de déploiement et des séquences avec **Microsoft Deployment Toolkit (MDT)**.
 
 > Ce guide fait partie du projet de déploiement automatisé de Windows 11 24H2 avec MDT et WDS.  
-> Pour la configuration de MDT, se référer à [`installation_mdt.md`](installation_mdt.md).  
+> Pour la configuration de MDT, se référer à [`installation_mdt.md`](02_installation_mdt.md).  
 > Pour l’installation de WDS, se référer à [`installation_wds.md`](https://github.com/MB7M/wds-pxe-proxmox/blob/56de0db88bb38679ed6aa2a60d64516de12031c3/docs/installation_wds.md).
 
 ---
