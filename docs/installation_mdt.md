@@ -6,7 +6,7 @@ Installer **Microsoft Deployment Toolkit (MDT)** et configurer le **Deployment S
 Le Deployment Share servira à centraliser les images, pilotes, séquences de tâches et scripts nécessaires à l’installation des postes de travail via MDT.
 
 > Pour l’installation de l’ADK et WinPE, se référer à [`installation_adk.md`](installation_adk.md).  
-> Pour la configuration de WDS, se référer à [`installation_wds.md`](installation_wds.md).
+> Pour la configuration de WDS, se référer à [`installation_wds.md`](https://github.com/MB7M/wds-pxe-proxmox/blob/56de0db88bb38679ed6aa2a60d64516de12031c3/docs/installation_wds.md).
 
 ---
 
