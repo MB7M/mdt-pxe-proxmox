@@ -30,7 +30,7 @@ avec ajout de Microsoft Deployment Toolkit (MDT) à un serveur WDS existant pour
 
 ## Documentation technique
 
-Accessible dans le dossier `/docs` :
+Accessible dans [`/docs`](./docs) :
 
 - `01_installation_adk.md` – Installation de Windows ADK 10.1.26100.2454
 - `02_installation_mdt.md` – Installation et configuration initiale de MDT
